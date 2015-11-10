@@ -1,0 +1,93 @@
+.NoDecoration{
+	text-decoration: none;
+}
+
+.btns{
+	position:absolute;
+}
+
+
+#menu {
+        width: auto;
+        height: 200px;
+        margin-top: -15px;
+        margin-left:-8px;
+    	display:block;
+        background: #4682B4 /* Cor Azul */
+}
+
+#title1{
+		position:fixed;
+		margin-top: -56px;
+		margin-left: 909px;
+		display:block;
+		color: #FFFFFF;
+}
+
+#title2{
+	    color: #FFFFFF;
+		position:fixed;
+		margin-top: -56px;
+		margin-left: 829px;
+		display:block;
+	}
+
+#title3{
+		color: #FFFFFF;
+		position:fixed;
+		margin-top: -56px;
+		margin-left: 1106px;
+		display:inherit;
+}
+
+
+#title4{
+	    color: #FFFFFF;
+		position:fixed;
+		margin-top: -56px;
+		margin-left: 747px;
+		display:inherit;
+}
+
+#wordD{
+	
+	margin-top: 20px;
+	position:absolute;
+	z-index: 1;
+}
+
+
+#btn1{
+	position:relative;
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-bottom: -70px;
+}
+
+#btn2{
+	position:relative;
+	margin-top: 70px;
+	margin-left: 20px;
+	margin-bottom: -70px;
+}
+
+#btn3{
+	position:relative;
+	margin-top: 20px;
+	margin-left: 720px;
+	margin-bottom: -70px;
+	
+}
+
+#btn4{
+	position:relative;
+	margin-top: 69px;
+	margin-left: 720px;
+	margin-bottom: -70px;
+	
+}
+
+#SobreOtrabalho{
+		position:fixed;
+		text-align:center;
+}
